@@ -1,0 +1,15 @@
+/* pages/show/show.wxss */
+.title{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+image{
+    width: 200rpx;
+    height: 200rpx;
+    border-radius: 50%;
+}
+text{
+    color: #333;
+    line-height: 50rpx;
+}
